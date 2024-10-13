@@ -1,0 +1,4 @@
+CustomerID,Name,Email,PurchaseDate,AmountSpent,LastLogin,Country,CustomerSegment,PromoOptIn
+1,John Doe,john@example.com,2023-01-10,150,2023-09-01,USA,NULL,TRUE
+2,Jane Smith,jane@example.com,2023-07-12,90,2023-08-25,UK,NULL,FALSE
+3,Tom White,tom@example.com,NULL,0,2023-09-05,Canada,NULL,TRUE
